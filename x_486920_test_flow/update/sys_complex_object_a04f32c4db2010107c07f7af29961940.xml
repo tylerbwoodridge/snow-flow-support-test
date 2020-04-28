@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDec4f32c4fe2010107be76c486bf2143f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>1d3a3e80db2010107c07f7af29961987</scope_name>
+        <serialized_content>{"FlowDesigner:FDec4f32c4fe2010107be76c486bf2143f":{"a":"String","a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"a\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"d14bcf61-2144-47b4-8569-1fec18d7a060\"}"},"b":"String","b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"b\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"0ffc3134-86e9-486f-9492-bcb311372573\"}"},"c":"String","c.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"c\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"16bb72fd-fb96-4ddc-b222-8e7f2fe1757a\"}"}},"FlowDesigner:FDec4f32c4fe2010107be76c486bf2143f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"b64fd6fe-13fc-42ea-a340-031abe2c21e7\",\"default_value\":\"\",\"label\":\"test\",\"mandatory\":\"false\",\"uiUniqueId\":\"c7f45674-c89c-44eb-b2e8-5c867aafd644\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDec4f32c4fe2010107be76c486bf2143f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"8228648f-fd38-4e4d-b788-9a13c0fdff84\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 17:36:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a04f32c4db2010107c07f7af29961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDec4f32c4fe2010107be76c486bf2143f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Flow support" source="x_486920_test_flow">1d3a3e80db2010107c07f7af29961987</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Flow support">1d3a3e80db2010107c07f7af29961987</sys_scope>
+        <sys_update_name>sys_complex_object_a04f32c4db2010107c07f7af29961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:36:37</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

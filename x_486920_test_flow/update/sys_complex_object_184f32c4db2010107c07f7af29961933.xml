@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD544f32c4102010103049ff35e4759c33</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>1d3a3e80db2010107c07f7af29961987</scope_name>
+        <serialized_content>{"FlowDesigner:FD544f32c4102010103049ff35e4759c33":{"a":"String","a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"a\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\"}"},"b":"String","b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"b\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\"}"},"c":"String","c.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"c\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"}},"FlowDesigner:FD544f32c4102010103049ff35e4759c33.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD544f32c4102010103049ff35e4759c33\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"test\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"65000\",\"uiUniqueId\":\"8228648f-fd38-4e4d-b788-9a13c0fdff84\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 17:36:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>184f32c4db2010107c07f7af29961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD544f32c4102010103049ff35e4759c33</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Flow support" source="x_486920_test_flow">1d3a3e80db2010107c07f7af29961987</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Flow support">1d3a3e80db2010107c07f7af29961987</sys_scope>
+        <sys_update_name>sys_complex_object_184f32c4db2010107c07f7af29961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 17:36:36</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
